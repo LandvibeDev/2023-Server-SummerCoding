@@ -3,3 +3,6 @@
 - 주제: 스프링 기반 서버개발 
 ### 일지
 - [0주차 일지](https://github.com/LandvibeDev/2023-Server-SummerCoding/blob/main/%EC%9D%BC%EC%A7%80/week0.md)
+
+### 과제
+- [숫자 야구](https://github.com/LandvibeDev/java-baseball)
