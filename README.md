@@ -11,3 +11,4 @@
 ### 과제
 - [숫자 야구](https://github.com/LandvibeDev/java-baseball)
 - [로또](https://github.com/LandvibeDev/java-lotto)
+- [Spring-Landlog](https://github.com/LandvibeDev/spring-landlog)
