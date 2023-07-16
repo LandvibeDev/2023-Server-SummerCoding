@@ -7,7 +7,7 @@
 - [1주자-특강 일지](https://github.com/LandvibeDev/2023-Server-SummerCoding/blob/main/%EC%9D%BC%EC%A7%80/%08week1-%ED%8A%B9%EA%B0%95.md)
 - [2주차 일지](https://github.com/LandvibeDev/2023-Server-SummerCoding/blob/main/%EC%9D%BC%EC%A7%80/week2.md)
 - [3주차 일지](https://github.com/LandvibeDev/2023-Server-SummerCoding/blob/main/%EC%9D%BC%EC%A7%80/week3.md)
-
+- [3주차-특강 일지](https://github.com/LandvibeDev/2023-Server-SummerCoding/blob/main/%EC%9D%BC%EC%A7%80/week3-%ED%8A%B9%EA%B0%95.md)
 ### 과제
 - [숫자 야구](https://github.com/LandvibeDev/java-baseball)
 - [로또](https://github.com/LandvibeDev/java-lotto)
