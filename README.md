@@ -13,3 +13,6 @@
 - [숫자 야구](https://github.com/LandvibeDev/java-baseball)
 - [로또](https://github.com/LandvibeDev/java-lotto)
 - [Spring-Landlog](https://github.com/LandvibeDev/spring-landlog/issues)
+
+### 도서 스터디
+- [토비의 스프링](https://github.com/LandvibeDev/2023-Toby-Spring)
